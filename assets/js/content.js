@@ -46,7 +46,7 @@ window.SITE = {
       features: ["Light and dark theme", "Data-driven skills and projects", "Accessible, responsive layout", "Deploys free to GitHub Pages"],
       tech: ["HTML", "Tailwind CSS", "JavaScript"],
       repo: "",
-      demo: "",
+      demo: "https://devsolan1.github.io/portfolio/",
       image: "assets/img/portfolio.png"
     }
   ]
